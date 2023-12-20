@@ -1,0 +1,61 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "Mirana",
+            "image": "https://c4.wallpaperflare.com/wallpaper/593/326/550/cold-ice-winter-cat-wallpaper-thumb.jpg",
+            "description": "Born to a royal family, a blood princess next in line for the Solar Throne, Mirana willingly surrendered any claim to mundane land or titles when she dedicated herself completely to the service of Selemene, Goddess of the Moon.",
+            "type": "Range hero",
+            "release_date": "2023-12-15",
+            "attribute_id": 2
+        },
+        {
+            "id": 2,
+            "name": "Bane",
+            "image": "https://dotawallpapers.com/wallpaper/preview/341041254.jpg",
+            "description": "When the gods have nightmares, it is Bane Elemental who brings them. Also known as Atropos, Bane was born from the midnight terrors of the goddess Nyctasha.",
+            "type": "Range hero",
+            "release_date": "2023-12-16",
+            "attribute_id": 3
+        },
+        {
+            "id": 3,
+            "name": "Brewmaster",
+            "image": "https://dotawallpapers.com/wallpaper/preview/390321718.jpg",
+            "description": "Deep in the Wailing Mountains, in a valley beneath the Ruined City, the ancient Order of the Oyo has for centuries practiced its rites of holy reverie, communing with the spirit realm in grand festivals of drink.",
+            "type": "Melee hero",
+            "release_date": "2023-12-17",
+            "attribute_id": 1
+        },
+        {
+            "id": 5,
+            "name": "Grimstroke",
+            "image": "https://c4.wallpaperflare.com/wallpaper/632/249/141/dota-dota-2-grimstroke-dota-2-hd-wallpaper-preview.jpg",
+            "description": "The people of Ashkavor crowded around the temple square, eager to witness the ascension of their new guardian -- to stand near the man as he bound their souls to his own.",
+            "type": "Range hero",
+            "release_date": "2023-12-18",
+            "attribute_id": 3
+        },
+        {
+            "id": 6,
+            "name": "Slark",
+            "image": "https://c4.wallpaperflare.com/wallpaper/503/524/44/dota-2-set-deep-sea-dragoon-loading-screen-slark-wallpaper-1920%C3%971080-wallpaper-preview.jpg",
+            "description": "Little known to the inhabitants of the dry world, Dark Reef is a sunken prison where the worst of the sea-breed are sent for crimes against their fellows.",
+            "type": "Melee hero",
+            "release_date": "2023-12-19",
+            "attribute_id": 2
+        },
+        {
+            "id": 4,
+            "name": "Akasha",
+            "image": "https://preview.redd.it/x3ai1bquqe451.png?auto=webp&s=bd802cd4871cf2ab35366764e23e6912295f7219",
+            "description": "The Ecclesiast-King of Elze nursed a desire for pain — forbidden pain. In a less prominent political figure, such desires might be considered unwise, but in a monarch of his stature.",
+            "type": "Range hero",
+            "release_date": "2023-12-20",
+            "attribute_id": 3
+        }
+    ],
+    "total": 6,
+    "skip": 0,
+    "limit": 6
+}

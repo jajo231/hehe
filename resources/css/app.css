@@ -1,0 +1,55 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css');
+@import 'v-calendar/style.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+p {
+    @apply pb-3
+}
+
+.main-nav {
+    @apply flex flex-col
+}
+
+.light-main-nav {
+    @apply flex flex-col
+}
+
+.light-main-nav a {
+    @apply p-4 text-gray-800 text-xl border-b border-gray-300 hover:bg-gray-400 duration-500
+}
+
+.dark-main-nav {
+    @apply flex flex-col
+}
+
+.dark-main-nav a {
+    @apply p-4 text-gray-400 text-xl border-b border-gray-700 hover:bg-gray-800 duration-500
+}
+
+.main-nav a {
+    @apply p-4 text-gray-400 text-xl border-b border-gray-700 hover:bg-gray-800 duration-500
+}
+
+#sidebar .full {
+    @apply w-[350px]
+}
+
+#sidebar .min {
+    @apply w-[40px]
+}
+
+.hidden {
+    display: none;
+}
+
+.dark-sidebar {
+    background-color: #1f2937;
+    color: #f9fafb;
+}
+
+.light-sidebar {
+    background-color: #657781;
+    color: #1f2937;
+}

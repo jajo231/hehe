@@ -1,0 +1,31 @@
+{
+    "attributes": [
+        {
+            "id": 1,
+            "name": "Strength",
+            "image": "https://cdnb.artstation.com/p/assets/images/images/012/438/897/large/alexandra-bisson-001-str.jpg?1534811821",
+            "description": "Strength heroes tend to have more health and health regeneration than other heroes, making them more resilient to both physical attacks and spells.",
+            "created_at": "2023-12-15 08:00:00",
+            "updated_at": "2023-12-15 08:30:00"
+        },
+        {
+            "id": 2,
+            "name": "Agility",
+            "image": "https://cdnb.artstation.com/p/assets/images/images/012/438/899/large/alexandra-bisson-002-agi.jpg?1534811827",
+            "description": "Because Agility heroes are the only class of heroes to gain both damage and attack speed as their primary attribute increases, they tend to have the highest physical damage output as the game progresses.",
+            "created_at": "2023-12-15 08:00:00",
+            "updated_at": "2023-12-15 08:30:00"
+        },
+        {
+            "id": 3,
+            "name": "Intelligence",
+            "image": "https://cdnb.artstation.com/p/assets/images/images/012/438/901/large/alexandra-bisson-003-int.jpg?1534811832",
+            "description": "Intelligence heroes tend to have a greater number of active abilities compared to other heroes.",
+            "created_at": "2023-12-15 08:00:00",
+            "updated_at": "2023-12-15 08:30:00"
+        }
+    ],
+    "total": 3,
+    "skip": 0,
+    "limit": 3
+}
